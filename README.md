@@ -28,7 +28,7 @@ O consumo de energia é uma métrica crucial para o desenvolvimento sustentável
 1️⃣ **Coleta de Dados**: Extraímos um conjunto de dados abrangente com mais de 50.000 registros que incluem consumo de energia e variáveis climáticas. 📊  
 2️⃣ **Pré-processamento de Dados**: Realizamos a limpeza e a transformação de dados, garantindo qualidade e precisão. 🧹  
 3️⃣ **Análise Distribuída**: Usamos o Dask para processar grandes volumes de dados de forma eficiente. 🖥️  
-4️⃣ **Modelagem**: Adotamos a Regressão Linear para treinar nossos modelos de previsão. 📈  
+4️⃣ **Modelagem**: Adotamos a Floresta Aleatória para treinar nossos modelos de previsão. 📈  
 5️⃣ **Avaliação do Modelo**: Utilizamos métricas robustas, como o Erro Quadrático Médio (MSE), para avaliar a performance dos modelos. 📏
 
 ## ❓ Problema a Ser Explorado
@@ -39,7 +39,7 @@ Nosso foco é prever o consumo de energia em diferentes zonas urbanas e avaliar 
 ## 📊 Resultados
 
 📈 **Impacto**:  
-Nossos modelos de Regressão Linear foram eficazes na previsão do consumo de energia. A análise distribuída com Dask permitiu um processamento de dados mais eficiente. ✅
+Nossos modelos de Floresta Aleatória foram eficazes na previsão do consumo de energia. A análise distribuída com Dask permitiu um processamento de dados mais eficiente. ✅
 
 ## 🎉 Conclusão
 
@@ -50,7 +50,7 @@ Este projeto demonstrou que é possível modelar e prever eficazmente o consumo 
 
 - 🌱 Sustentabilidade
 - ⚡ Energia
-- 📈 Regressão Linear
+- 📈 Floresta Aleatória
 - 🖥️ Dask
 - 🌐 Análise Distribuída
 
